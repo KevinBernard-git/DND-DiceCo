@@ -15,6 +15,8 @@
 ## **List of Commands**
 
       > Play one round |  'play' or 'p' or enter
+      
+      > Play multiple rounds | any number
 
       > Play with advertising |  'advertise' or 'ad' or 'a'
 
