@@ -1,18 +1,18 @@
 # DND-DiceCo
 
-======**REQUIREMENTS**======
+## **REQUIREMENTS**
 
       > Python 3.10 or later 
   
 
 
-======**RUN**======
+## **RUN**
 
       > python main.py
   
   
 
-=====**List of Commands**=====
+## **List of Commands**
 
       > Play one round |  'play' or 'p' or enter
 
@@ -31,7 +31,7 @@
   
   
   
-=====**EXAMPLE OUTPUT**======
+## **EXAMPLE OUTPUT**
 
   - One Round
 
