@@ -156,6 +156,7 @@ async def game_engine():
             case "help" | "h":
                 print("\n\n=====List of Commands=====")
                 print("Play one round\n  'play' or 'p' or enter")
+                print("Play multiple rounds\n  Enter any number")
                 print("Play a round with advertising\n  'advertise' or 'ad' or 'a'")
                 print("Show Stats for current game\n   'stats' or 's'")
                 print("Settings | Set ad gold, starting gold, hardcore mode!?\n   'settings' or 'set'")
